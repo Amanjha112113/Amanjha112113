@@ -1,19 +1,21 @@
 <div align="center">
 
-<!-- Dynamic Greeting Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20I'm%20Aman%20Jha%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20ML%20Engineer%20%7C%20Builder%20of%20Intelligent%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20There!%20I'm%20Aman%20Jha%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Backend%20Dev%20%7C%20Builder%20of%20Intelligent%20Systems&descAlignY=57&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://github.com/Amanjha112113">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer+%F0%9F%A4%96;LangChain+%7C+LangGraph+%7C+LlamaIndex+Builder;RAG+Pipelines+%7C+NL-to-SQL+%7C+LLM+APIs;Microsoft+Aspirant+%7C+Azure+AI-102+Learner;YouTube+Creator+for+AI+%26+ML+Content+%F0%9F%8E%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Backend+Developer+%F0%9F%A4%96;Ex+AI+Engineer+Trainee+%40+Microsoft+GenSpark+%F0%9F%8F%A2;LangChain+%7C+RAG+%7C+Vector+Databases+%7C+NLP;MERN+Stack+%7C+WebSockets+%7C+System+Design;LeetCode+1680%2B+%7C+Top+14%25+Globally+%F0%9F%8F%86;B.Tech+AI+%26+Data+Science+%40+SECE+2024-2028" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Profile Views + Followers -->
-<img src="https://komarev.com/ghpvc/?username=Amanjha112113&label=Profile%20Views&color=0e75b6&style=flat" alt="Aman Jha" />
+<!-- Badges Row -->
+<img src="https://komarev.com/ghpvc/?username=Amanjha112113&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/Amanjha112113?label=Followers&style=social" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/followers/Amanjha112113?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LeetCode-Top%2014%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 
 </div>
 
@@ -21,113 +23,242 @@
 
 ## 🧠 About Me
 
-```yaml
-name        : Aman Jha
-education   : B.Tech in AI & Data Science (2024–2028)
-college     : Sri Eshwar College of Engineering
-goal        : AI/ML Engineer | Backend Engineer
-aspiration  : Internship @ Microsoft 🏢
-interests   : LLM Agents • RAG Systems • MLOps • NL-to-SQL
-currently   : Building industrial-level AI agents 🤖
-youtube     : AI & ML content creator 🎬
-```
+<img align="right" alt="AI Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+<br/>
+
+🎓 **B.Tech in AI & Data Science** @ Sri Eshwar College of Engineering *(2024–2028)* | **CGPA: 8.36**
+
+🏢 **Ex AI Engineer Trainee @ Microsoft GenSpark** — Azure AI, Cognitive Services, Computer Vision
+
+💼 **Ex Software Engineering Intern @ AlgoTutor** — Built real-time MERN chat app for 100+ users
+
+🤖 Passionate about **Deep Learning • RAG Systems • LLM Agents • NLP • System Design**
+
+⚡ Built a **Deep Packet Inspection Engine** in C++17 with 16-thread parallel processing
+
+🔗 Exploring **LangChain • LangGraph • LlamaIndex • n8n • Dify • MCP Protocol**
+
+🏆 **LeetCode Rating: 1680+** | Top 14% Globally | Open-source contributor
+
+🎬 Running a **YouTube Channel** dedicated to AI & ML content
+
+📍 Based in **Tamil Nadu, India 🇮🇳** &nbsp;|&nbsp; 📧 amanjha112113@gmail.com
+
+<br clear="right"/>
 
 ---
 
 ## 🚀 Tech Stack
 
+<div align="center">
+
 ### 🤖 AI / ML / LLM
+
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llama&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge&logo=graphql&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DNABERT-2-E83E8C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vector_DB-RAG-00D9FF?style=for-the-badge&logoColor=white"/>
 </p>
 
-### 🐍 Languages & Data
+### 🐍 Languages
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,mysql&theme=dark" />
 </p>
 
-### 🌐 Deployment & Backend
+### 🌐 Backend & Databases
+
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,fastapi,flask&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
-### ☁️ Cloud Platforms
+### ☁️ Cloud & DevOps
+
 <p>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,github&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Azure_Cognitive_Services-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_ML-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions_CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ### 🤖 Agent Frameworks & Tools
+
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dify-6C63FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dify.AI-6C63FF?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Agent.AI-00B4D8?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MCP-Protocol-FF6B35?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP_Protocol-FF6B35?style=for-the-badge&logoColor=white"/>
 </p>
 
----
+### ⚙️ Systems & Low-Level
 
-## 🔥 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 📝 Description | 🛠 Stack |
-|:-----------|:---------------|:---------|
-| **SafeData API Gateway** | RAG + LLM for secure NL-to-SQL on de-identified microdata | FastAPI, LangChain, PostgreSQL |
-| **AI Chatbot** | Conversational AI with memory and context management | LangChain, OpenAI API, Streamlit |
-| **Recommender System** | Hybrid collaborative + content-based filtering engine | PyTorch, scikit-learn, Flask |
-| **Image Generator** | Text-to-image pipeline with fine-tuned diffusion model | Diffusers, Gradio, Python |
-| **NL-to-SQL Engine** | Natural language queries → SQL using LLM + schema grounding | LlamaIndex, SQLite, FastAPI |
+<p>
+  <img src="https://img.shields.io/badge/C++17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Multi--threading-FF6B35?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PCAP-TLS%2FSNI-4B0082?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Network_Packet_Analysis-0D1117?style=for-the-badge&logoColor=00D9FF"/>
+</p>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Experience
+
+<details open>
+<summary><b>🏢 AI Engineer Trainee — Microsoft GenSpark &nbsp;|&nbsp; 2025</b></summary>
+<br/>
+
+- Architected **Azure AI solutions** using Cognitive Services, Azure ML, and Computer Vision APIs for real-world enterprise projects
+- Optimized ML workflows through **model evaluation, A/B testing, and performance monitoring** techniques
+
+</details>
+
+<details open>
+<summary><b>💻 Software Engineering Intern — AlgoTutor &nbsp;|&nbsp; 2025</b></summary>
+<br/>
+
+- Developed a **real-time MERN chat application** supporting **100+ concurrent users** with low-latency messaging
+- Implemented **WebSocket-based messaging** and optimized database queries, reducing response time by **30%**
+
+</details>
+
+---
+
+## 🔑 Key Projects
+
+<details open>
+<summary><b>⚡ DPI Engine — Deep Packet Inspection System &nbsp;|&nbsp; Jan 2026</b></summary>
+<br/>
+
+**Tech Stack:** `C++17` `Multi-threading` `PCAP` `TLS/SNI Parsing`
+
+- Achieved **real-time network traffic classification** across 10+ app types (YouTube, Facebook, DNS) by parsing TLS SNI fields from raw PCAP bytes using a **4-thread Fast Path pipeline**
+- Reduced per-packet processing latency by distributing load across **16 parallel threads** via consistent hash-based producer-consumer queues
+
+</details>
+
+<details open>
+<summary><b>💬 Real-Time Chat Application &nbsp;|&nbsp; Jul 2025</b></summary>
+<br/>
+
+**Tech Stack:** `MongoDB` `Express` `React` `Node.js`
+
+- Supported **100+ concurrent users** with **sub-100ms message delivery** using WebSocket-based full-duplex communication on MERN stack
+- Reduced database query response time by **30%** by optimizing MongoDB indexes and restructuring API endpoints
+
+</details>
+
+<details open>
+<summary><b>🧬 eDNA Biodiversity AI Explorer &nbsp;|&nbsp; Mar 2025</b></summary>
+<br/>
+
+**Tech Stack:** `Python` `PyTorch` `Transformers` `DNABERT-2-117M` `Streamlit` `CLI`
+
+- Enabled **zero-shot species detection** on raw DNA sequences with **90%+ inter-species accuracy** by fine-tuning DNABERT-2-117M on Human and Chimpanzee genome datasets
+- Reduced manual biodiversity analysis time by building an end-to-end Streamlit interface that classifies eDNA sequences and generates reports in **under 5 seconds**
+
+</details>
+
+---
+
+## 🏅 Achievements & Recognition
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amanjha112113&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+| 🏆 Achievement | 📅 Year |
+|:---|:---:|
+| 🥈 **2nd Prize — Hackathon** \| Led team to build AI-powered autonomous robot with object detection | 2025 |
+| 🌟 **Salesforce Trailhead** \| Earned 25+ badges in CRM, data modeling & process automation | 2025 |
+| 🔓 **Open Source Contributor** \| PRs, issue resolutions & feature enhancements on GitHub | 2025 |
+
+</div>
+
+---
+
+## 🎓 Certifications
+
+<div align="center">
+
+| 📜 Certificate | 🏛️ Issuer | 📅 Year |
+|:---|:---:|:---:|
+| ☕ Oracle Java Foundations Certified | Oracle | 2025 |
+| 💻 Software Engineer Intern Certification \| `CF9AA87275A4` | HackerRank | 2025 |
+| 🗄️ SQL (Intermediate) Certification \| `CA70DAB01604` | HackerRank | 2025 |
+| 📘 Java from Zero to First Job — 2000+ Examples \| 151.5 hrs | Udemy | 2025 |
+| 🧮 Mastering DSA using C and C++ \| 58.5 hrs | Udemy | 2024 |
+
+</div>
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-1680%2B_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+&nbsp;
+<a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/YOUR_HACKERRANK" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 👾 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amanjha112113&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanjha112113&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanjha112113&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Amanjha112113&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=00D9FF" alt="GitHub Streak"/>
+
+</div>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanjha112113&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="streak stats"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amanjha112113&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Amanjha112113&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
 </div>
 
----
+<br/>
 
-## 📈 Contribution Graph
+### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amanjha112113&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amanjha112113&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -135,24 +266,97 @@ youtube     : AI & ML content creator 🎬
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amanjha112113/Amanjha112113/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amanjha112113/Amanjha112113/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Amanjha112113/Amanjha112113/output/github-snake.svg" />
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amanjha112113/Amanjha112113/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amanjha112113/Amanjha112113/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Amanjha112113/Amanjha112113/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
 </div>
 
-> ⚙️ **To enable the snake animation**, go to your repo → **Actions** tab → create a workflow `.github/workflows/snake.yml` with the standard snake generator action.
+<details>
+<summary>⚙️ <b>Snake not showing? Click here for setup steps</b></summary>
+<br/>
+
+**Step 1:** In your profile repo `Amanjha112113/Amanjha112113`, create `.github/workflows/snake.yml`
+
+**Step 2:** Paste this:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**Step 3:** Actions tab → **Generate Snake** → **Run workflow** → Done ✅
+
+</details>
+
+---
+
+## 👨‍💻 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="LeetCode Stats"/>
+
+</div>
+
+<br/>
+
+### 🏅 LeetCode Achievements
+
+<div align="center">
+
+| 🏷️ Category | 📊 Stats |
+|:---:|:---:|
+| 🟢 Easy Solved | ![Easy](https://img.shields.io/badge/Easy-YOUR__COUNT-00B8A3?style=for-the-badge) |
+| 🟡 Medium Solved | ![Medium](https://img.shields.io/badge/Medium-YOUR__COUNT-FFC01E?style=for-the-badge) |
+| 🔴 Hard Solved | ![Hard](https://img.shields.io/badge/Hard-YOUR__COUNT-EF4743?style=for-the-badge) |
+| 🏆 Max Contest Rating | ![Rating](https://img.shields.io/badge/Rating-1680%2B-FF6B35?style=for-the-badge) |
+| 🎯 Global Ranking | ![Rank](https://img.shields.io/badge/Top-14%25-00D9FF?style=for-the-badge) |
+| 📍 Rank | ![Rank No](https://img.shields.io/badge/Rank-1%2C663%2C363-6C63FF?style=for-the-badge) |
+
+</div>
 
 ---
 
 ## 📚 Currently Learning
 
-- 🧠 **Azure AI-102** Certification
-- 🔗 **LangGraph** — stateful multi-agent workflows
-- 📦 **Model Context Protocol (MCP)** — next-gen AI agent communication
-- 🏋️ **Deep Learning** — via Fast.ai & DeepLearning.AI courses
-- 🏆 **Kaggle** — competitive ML problem solving
+<div align="center">
+
+| 📘 Topic | 🔗 Platform | 🔥 Status |
+|:---------|:-----------|:---------|
+| Azure AI-102 Certification | Microsoft Learn | 🟡 In Progress |
+| LangGraph — Multi-Agent Workflows | DeepLearning.AI | 🟡 In Progress |
+| Model Context Protocol (MCP) | Anthropic Docs | 🟢 Exploring |
+| Deep Learning Specialization | Fast.ai | 🟡 In Progress |
+| Kaggle ML Competitions | Kaggle | 🟢 Active |
+
+</div>
 
 ---
 
@@ -168,12 +372,16 @@ youtube     : AI & ML content creator 🎬
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:amanjha112113@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/Amanjha112113" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="tel:+919006126178">
+  <img src="https://img.shields.io/badge/Phone-9006126178-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </div>
@@ -182,8 +390,8 @@ youtube     : AI & ML content creator 🎬
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-*"The best way to predict the future is to build it." — Let's build it with AI. 🚀*
+*"The best way to predict the future is to build it — with AI." 🚀*
 
 </div>
