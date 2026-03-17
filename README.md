@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20There!%20I'm%20Aman%20Jha%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Backend%20Dev%20%7C%20Builder%20of%20Intelligent%20Systems&descAlignY=57&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://github.com/Amanjha112113">
+<a href="https://leetcode.com/u/AmanJha112113/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Backend+Developer+%F0%9F%A4%96;Ex+AI+Engineer+Trainee+%40+Microsoft+GenSpark+%F0%9F%8F%A2;LangChain+%7C+RAG+%7C+Vector+Databases+%7C+NLP;MERN+Stack+%7C+WebSockets+%7C+System+Design;LeetCode+1680%2B+%7C+Top+14%25+Globally+%F0%9F%8F%86;B.Tech+AI+%26+Data+Science+%40+SECE+2024-2028" alt="Typing SVG" />
 </a>
 
@@ -211,7 +211,7 @@
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+<a href="https://leetcode.com/u/AmanJha112113" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-1680%2B_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 &nbsp;
@@ -321,7 +321,7 @@ jobs:
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/AmanJha112113?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="LeetCode Stats"/>
 
 </div>
 
