@@ -197,15 +197,6 @@
 ---
 
 ## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Amanjha112113/Amanjha112113/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
----
-
-## 👨‍💻 LeetCode Stats
----
-
-## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -214,10 +205,35 @@
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Amanjha112113/Amanjha112113/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
-
 ---
 
-<br/>
+## 👨‍💻 LeetCode Stats
+
+<div align="center">
+  <a href="https://leetcode.com/u/AmanJha112113/">
+    <img src="https://leetcard.jacoblin.cool/AmanJha112113?theme=dark&font=Fira%20Code&ext=heatmap" alt="Aman's LeetCode Stats" width="100%" />
+  </a>
+
+  <br/><br/>
+
+  <p align="center">
+    <a href="https://leetcode.com/u/AmanJha112113/">
+      <img src="https://img.shields.io/badge/Dynamic_User_Rating-1680%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Rating" />
+    </a>
+    &nbsp;
+    <a href="https://leetcode.com/u/AmanJha112113/">
+      <img src="https://img.shields.io/badge/Global_Ranking-Top_14%25-00D9FF?style=for-the-badge&logo=target&logoColor=white" alt="Global Rank" />
+    </a>
+    &nbsp;
+    <a href="https://leetcode.com/u/AmanJha112113/">
+      <img src="https://img.shields.io/badge/Solved_Problems-400%2B-2EC866?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Solved" />
+    </a>
+  </p>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanjha112113&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="Languages used for Problem Solving" height="150px"/>
+</div>
+
+---
 
 ### 🏅 LeetCode Achievements
 
