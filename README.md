@@ -211,20 +211,17 @@
 ## 👨‍💻 LeetCode Stats
 
 <div align="center">
-  <div style="width: 85%; max-width: 650px;">
-    
-    <a href="https://leetcode.com/u/AmanJha112113/">
-      <img src="https://leetcard.jacoblin.cool/AmanJha112113?theme=dark&font=Fira%20Code&ext=heatmap" alt="Aman's LeetCode Stats" width="650" />
-    </a>
-    <br/>
+  
+  <a href="https://leetcode.com/u/AmanJha112113/">
+    <img src="https://leetcard.jacoblin.cool/AmanJha112113?theme=dark&font=Fira%20Code&ext=heatmap" alt="Aman's LeetCode Stats" width="600" />
+  </a>
 
-    <p align="center">
-      <img src="https://img.shields.io/badge/Rating-1680%2B-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-      <img src="https://img.shields.io/badge/Top-14%25-00D9FF?style=flat-square&logo=target&logoColor=white" />
-      <img src="https://img.shields.io/badge/Solved-400%2B-2EC866?style=flat-square&logo=checkmarx&logoColor=white" />
-    </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Rating-1680%2B-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/Top-14%25-00D9FF?style=flat-square&logo=target&logoColor=white" />
+    <img src="https://img.shields.io/badge/Solved-400%2B-2EC866?style=flat-square&logo=checkmarx&logoColor=white" />
+  </p>
 
-  </div>
 </div>
 
 ---
