@@ -198,55 +198,9 @@
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amanjha112113/Amanjha112113/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amanjha112113/Amanjha112113/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Amanjha112113/Amanjha112113/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
-<details>
-<summary>⚙️ <b>Snake not showing? Click here for setup steps</b></summary>
-<br/>
-
-**Step 1:** In your profile repo `Amanjha112113/Amanjha112113`, create `.github/workflows/snake.yml`
-
-**Step 2:** Paste this:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 3:** Actions tab → **Generate Snake** → **Run workflow** → Done ✅
-
-</details>
+<p align="center">
+  <img src="https://github.com/Anish-S-tech/Anish-S-tech/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
