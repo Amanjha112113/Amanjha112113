@@ -197,11 +197,9 @@
 ---
 
 ## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://github.com/Amanjha112113/Amanjha112113/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Amanjha112113/Amanjha112113/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
-
 ---
 
 ## 👨‍💻 LeetCode Stats
