@@ -199,7 +199,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Anish-S-tech/Anish-S-tech/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/Amanjha112113/Amanjha112113/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
