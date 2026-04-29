@@ -203,12 +203,19 @@
 ---
 
 ## 👨‍💻 LeetCode Stats
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://leetcard.jacoblin.cool/AmanJha112113?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="LeetCode Stats"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amanjha112113/Amanjha112113/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amanjha112113/Amanjha112113/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Amanjha112113/Amanjha112113/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
+
+---
 
 <br/>
 
